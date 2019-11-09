@@ -1,0 +1,5 @@
+BROWSER_BUNDLES = ("com.google.Chrome")
+
+FILETYPE_SENSITIVE_BUNDLES = (
+    # *BROWSER_BUNDLES,
+)
